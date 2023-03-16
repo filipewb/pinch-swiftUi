@@ -51,13 +51,13 @@
 		79D9D39D29C3CC88002CCF16 /* Pinch */ = {
 			isa = PBXGroup;
 			children = (
+				79D9D3A229C3CC8A002CCF16 /* Assets.xcassets */,
 				79D9D3AF29C3CD90002CCF16 /* Data */,
 				79D9D3AE29C3CD8B002CCF16 /* Model */,
-				79D9D3AD29C3CD7B002CCF16 /* View */,
 				79D9D39E29C3CC88002CCF16 /* PinchApp.swift */,
-				79D9D3AC29C3CD6C002CCF16 /* Screen */,
-				79D9D3A229C3CC8A002CCF16 /* Assets.xcassets */,
 				79D9D3A429C3CC8A002CCF16 /* Preview Content */,
+				79D9D3AC29C3CD6C002CCF16 /* Screen */,
+				79D9D3AD29C3CD7B002CCF16 /* View */,
 			);
 			path = Pinch;
 			sourceTree = "<group>";
